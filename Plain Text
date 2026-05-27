@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Segredo Ancestral</title>
+
+  <style>
+    body{
+      background:#0f0b1f;
+      color:white;
+      font-family:serif;
+      text-align:center;
+      padding:40px;
+    }
+
+    h1{
+      color:gold;
+      font-size:40px;
+    }
+
+    p{
+      font-size:20px;
+    }
+
+    button{
+      background:gold;
+      border:none;
+      padding:15px 30px;
+      border-radius:20px;
+      font-size:18px;
+      cursor:pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Segredo Ancestral</h1>
+
+  <p>
+    🔮 Tarot • ✨ Quiromancia • 🌙 Astrologia • 🕯️ Terapia Holística
+  </p>
+
+  <p>
+    Leituras intuitivas com acolhimento, espiritualidade e conexão ancestral.
+  </p>
+
+  <a href="https://wa.me/55SEUNUMERO">
+    <button>Agendar Consulta</button>
+  </a>
+
+</body>
+</html>
